@@ -27,19 +27,28 @@
     
 # //////////////////////////////////////////////////////////////////////////////////////
 #  ---------------program mark finder------------------
-x = 55 
-if x >= 75 :
-    print("A Pass")
-elif x >= 65:
-    print("B Pass")
-elif x >= 55:
-    print("C Pass")
-elif x >= 45:
-    print("D Pass")
-else:
-    print("Fail")   
+# x = 55 
+# if x >= 75 :
+#     print("A Pass")
+# elif x >= 65:
+#     print("B Pass")
+# elif x >= 55:
+#     print("C Pass")
+# elif x >= 45:
+#     print("D Pass")
+# else:
+#     print("Fail")   
      
-        
+     
+# ==================================================================================
+# --------------------------fundementails of the python ------------------------
+#variabels 
+student_count = 100
+rating = 1.22
+is_true = False
+name = " aloka "
+print (student_count)
+
         
         
   
