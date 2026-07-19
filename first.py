@@ -17,6 +17,16 @@
 # you can put any key ward ( command palet ---> ctrl+shift+p)
 
 
+# ---------------first try without internet---------------
+x = 12
+if x > 12 :
+    print ( " pass ")
+    
+else:
+    print ( " fail ")
+    
+# //////////////////////////////////////////////////////////////////////////////////////
+    
 
 
 
