@@ -43,11 +43,15 @@
 # ==================================================================================
 # --------------------------fundementails of the python ------------------------
 #variabels 
-student_count = 100
-rating = 1.22
-is_true = False
-name = " aloka "
-print (student_count)
+# student_count = 100
+# rating = 1.22
+# is_true = False
+# name = " aloka "
+# print (student_count)
+#-------------------------------------------------------------------------------
+#variable names 
+# course name -----> syntax error 
+# course_name -----> correct version
 
         
         
