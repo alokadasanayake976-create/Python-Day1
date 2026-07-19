@@ -1,1 +1,2 @@
-print("aloka")
+#bilid in functions 
+print("Hello orld!");
