@@ -18,14 +18,31 @@
 
 
 # ---------------first try without internet---------------
-x = 12
-if x > 12 :
-    print ( " pass ")
+# x = 12
+# if x > 12 :
+#     print ( " pass ")
     
-else:
-    print ( " fail ")
+# else:
+#     print ( " fail ")
     
 # //////////////////////////////////////////////////////////////////////////////////////
+#  ---------------program mark finder------------------
+x = 55 
+if x >= 75 :
+    print("A Pass")
+elif x >= 65:
+    print("B Pass")
+elif x >= 55:
+    print("C Pass")
+elif x >= 45:
+    print("D Pass")
+else:
+    print("Fail")   
+     
+        
+        
+        
+  
     
 
 
